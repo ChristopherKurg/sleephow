@@ -1,0 +1,5 @@
+*.pyc
+model
+plots
+*.csv
+*.pkl
